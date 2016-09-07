@@ -1,0 +1,17 @@
+{
+  "name": "sar-vis",
+  "version": "0.0.2",
+  "main": "server.js",
+  "dependencies":
+  {
+    "node-static" : "latest",
+	"socket.io" : "0.9.6",
+	"vow" : "latest",
+	"phantomjs" : "latest",
+    "qs": "latest",
+	"node-phantom" : "latest"
+  },
+  "engines": {
+    "node": "0.10.x"
+  }
+}
